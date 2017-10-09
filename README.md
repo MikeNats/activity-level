@@ -39,7 +39,7 @@ Deploy folders: build, assets, index.html
 ### To build for production deployment.
 Deploy folders: build, assets, index.html
 ```bash
-    $ npm run build
+    $ npm run build:prod
 ```
 
 ## Test:
