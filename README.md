@@ -47,15 +47,15 @@ Deploy folders: build, assets, index.html
 To run unit tests
 
 ```bash
-    $ npm test:unit
+    $ npm run test:unit
 ```
 To watch unit tests
 
 ```bash
-    $ npm test:unit
+    $ npm run test:unitDev
 ```
 To run e2e tests
 
 ```bash
-    $ npm test:e2e
+    $ npm run test:e2e
 ```
