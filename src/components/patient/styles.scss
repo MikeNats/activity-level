@@ -1,0 +1,28 @@
+.patient{
+ 	padding-top: 30px;
+    background: #fff;
+    border: 1px solid #ddd;
+    margin-top: 13px;
+    position: relative;
+ }
+@media screen and (max-width: 40em) {
+	 .patient{
+	 	padding-top: 30px;
+	    background: #fff;
+	    border: 20px solid #ddd;
+	    margin-top: 13px;
+	    position: fixed;
+	    top: 0;
+	    width: 94%;
+	    box-shadow: 0 0 24px 1px;
+	    left: 3%;
+	 }
+}
+
+.hidePatient{
+	position: absolute;
+	right:30px;
+	top:30px;
+	color: blue;
+	cursor: pointer;
+}

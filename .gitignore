@@ -1,0 +1,8 @@
+node_modules
+build
+test-report.html
+package-lock
+errorShots
+package-lock.json
+package-lock**.json
+src/**/__snapshots__

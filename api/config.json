@@ -1,0 +1,12 @@
+{
+	"user": {
+		"pagination": 5,
+		"senarios": [{
+			"name": "Activity level: 20 - 40",
+			"filter": {
+				"max": 40,
+				"min": 20
+			}
+		}]
+	}
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import "../src/containers/searchList/styles.scss";
+@import "../src/components/searchList/searchResultItem/styles.scss";
+@import "../src/components/searchList/searchResults/styles.scss";
+@import "../src/components/searchList/searchForm/styles.scss";
+@import "../src/components/patient/styles.scss";
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-size: 25px;
+}
+
+.app{
+	background: #eee;
+}
+
+#createdBy{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+
+	a{
+		margin: 0 auto; 
+	    float: none;
+	    display: block;
+	    width: 100%;
+	    text-align: center;
+	    font-size: 10px;
+	    margin-bottom: 12px;
+	}
+
+}
