@@ -4,6 +4,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import {sumOfObjArray, filterByAttribute, projectArrayToObject, extendObjectFromArray} from './patientlib';
 
+
 /**
  * Component for  Patient
  */

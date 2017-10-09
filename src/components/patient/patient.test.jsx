@@ -1,7 +1,6 @@
 'use strict';
 
 import React from 'react';
-import 'whatwg-fetch';
 import { shallow, mount } from 'enzyme';
 
 import Patient from './patient';

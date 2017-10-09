@@ -3,7 +3,7 @@
 import React from 'react';
 import 'whatwg-fetch';
 import { shallow, mount } from 'enzyme';
-import InputField from './InputField';
+import InputField from './inputField';
 
 let testFunction = jest.fn();
 

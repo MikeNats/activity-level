@@ -9,7 +9,7 @@ import thunk from 'redux-thunk';
 import SearchList from './searchList';
 import config from '../../config';
 import SearchResults from './searchResults/searchResults';
-import SearchForm from './searchForm/SearchForm';
+import SearchForm from './searchForm/searchForm';
 import WarningMessage from '../common/warningMessage/warningMessage'; 
 import Button from '../common/button/button';
 import axios from 'axios';
