@@ -29,7 +29,7 @@ export default {
 
 	    publicPath: '/'
 	    // match the output `publicPath`
-	},
+	}, 
 	module: {
 		rules: [
 			{//eslint					
