@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MikeNats/activity-level.svg)](https://travis-ci.org/MikeNats/activity-level) 
+
 # Activity level
 
 * React-Redux.
