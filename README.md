@@ -4,7 +4,7 @@
 
 * React-Redux.
 * Foundation sites.
-* Unit tests: jasmine, jest.
+* Unit tests: jasmine, jest, enzyme.
 * e2e tests: cucumber, gherkins, webdriverIO, chai.
 
 ## Installation:
